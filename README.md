@@ -1,2 +1,7 @@
 # cloud-architecture-notes
-A comprehensive collection of notes, examples, and code snippets exploring system design and cloud architecture concepts, with a focus on AWS services.
+This repository contains my learning progress in System Design and Cloud Concepts. Below is a table of contents linking to specific topics covered.
+
+## Table of Contents
+
+| Topic | Description |
+|---------------|---------------|
